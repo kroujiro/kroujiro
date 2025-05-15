@@ -13,3 +13,5 @@
 
 (https://github.com/kroujiro/ranco_br)
 download my game you nerds
+
+<a href="https://kroujiro.github.io/ranco_br" title="Ranço">Ranço</a>
