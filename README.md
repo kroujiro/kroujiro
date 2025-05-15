@@ -11,7 +11,7 @@
 ![full](https://github.com/user-attachments/assets/3b040647-2b64-49f4-98dc-241789697c5b)
 ^^^^me if you care (purupurin!)
 
-(https://github.com/kroujiro/ranco_br)
-download my game you nerds
+<a href="https://kroujiro.github.io/ranco_br" title="Ranço">download my game you nerds
+</a>
 
 
