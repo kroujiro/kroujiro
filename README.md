@@ -7,12 +7,15 @@
 - 📫 How to reach me: krolow@keemail.me or @tyttorn on X. The email is more assured, I may end up deleting twitter, I hate social medias
 - ⚡ Fun fact: you can swallow a pint of blood before you get sick
   
-<a href="https://kroujiro.github.io/ranco_br" title="Ranço">Meu jogo! || My game!</a>
+<a href=https://github.com/kroujiro/eleytherias/releases/tag/game" title="Eleytherias">Meu jogo! || My game!</a>
   
 ![full](https://github.com/user-attachments/assets/3b040647-2b64-49f4-98dc-241789697c5b)
 ^^^^me if you care (purupurin!)
 
 <a href="https://github.com/kroujiro/ranco_br/releases/tag/rpg" title="Ranço">download my game you nerds
+</a>
+
+<a href="https://github.com/kroujiro/eleytherias/releases/tag/game" title="Eleytherias">download my OTHER game you nerds
 </a>
 
 
