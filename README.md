@@ -10,8 +10,8 @@
 <a href="https://github.com/kroujiro/eleytherias/releases/tag/game" title="Eleytherias">Meu Jogo!
 </a>
   
-![full](https://github.com/user-attachments/assets/3b040647-2b64-49f4-98dc-241789697c5b)
-^^^^me if you care (purupurin!)
+<img width="1542" height="1537" alt="Brigada_Paulista" src="https://github.com/user-attachments/assets/5b81c00a-cd10-4103-98c3-e23a107582f3" />
+
 
 <a href="https://github.com/kroujiro/ranco_br/releases/tag/rpg" title="Ranço">download my game you nerds
 </a>
